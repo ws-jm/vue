@@ -2,7 +2,6 @@
 Build a Vue.js 3 Typescript example to consume REST APIs, display and modify data using Axios and Vue Router.
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
-- There is a Search bar for finding Tutorials by title.
 
 ## Project setup
 ```
